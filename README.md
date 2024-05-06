@@ -6,11 +6,12 @@
 1. [Filtering and Edge Detection](#filtering-and-edge-detection)
 2. [Edge and Boundary Detection](#edge-and-boundary-detection)
 3. [Harris Operator](#harris-operator)
-4. [SIFT and Feature Matching](#sift-and-feature-matching)
-5. [Segmentation](#segmentation)
-6. [Thresholding](#thresholding)
-7. [Face Detection](#face-detection)
-8. [Face Recognition](#face-recognition)
+4. [SIFT](#sift)
+5. [Feature Matching](#feature-matching)
+6. [Segmentation](#segmentation)
+7. [Thresholding](#thresholding)
+8. [Face Detection](#face-detection)
+9. [Face Recognition](#face-recognition)
 
 ## 1. Filtering and Edge Detection
 
