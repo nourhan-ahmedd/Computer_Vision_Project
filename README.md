@@ -37,7 +37,15 @@ Description: Given standard images (grayscale and color), the following tasks ar
 
 ## 2. Edge and Boundary Detection
 
-Description: Projects in this section focus on edge and boundary detection methods such as the Hough transform and SNAKE algorithm.
+Description: For given images (grayscale and color), the following tasks are implemented:
+
+1. Detecting edges using Canny edge detector.
+2. Detecting lines, circles, ellipses (if any) and superimposing the detected shapes on the images.
+3. Initializing contour for a given object and evolve the Active Contour Model (SNAKE) using the greedy algorithm. Represent the output as chain code and compute perimeter and area inside these contours.
+
+![Active contour](https://drive.google.com/uc?export=download&id=1FFqSmoX-oY-DhTHJ70VAdHT6mla6ZtKa)
+![Shapes Detection](https://drive.google.com/uc?export=download&id=1JtIdu8Od59UOxQS4jOSwHazRKeiObr9N)
+
 
 ## 3. Harris Operator
 
@@ -58,3 +66,46 @@ Description: This section contains projects related to image segmentation techni
 ## 7. Thresholding
 
 Description: Explore projects that involve thresholding techniques for image segmentation and processing.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/OmarEmad101">
+        <img src="https://github.com/OmarEmad101.png" width="100px" alt="@OmarEmad101">
+        <br>
+        <sub><b>Omar Emad</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Omarnbl">
+        <img src="https://github.com/Omarnbl.png" width="100px" alt="@Omarnbl">
+        <br>
+        <sub><b>Omar Nabil</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KhaledBadr07">
+        <img src="https://github.com/KhaledBadr07.png" width="100px" alt="@KhaledBadr07">
+        <br>
+        <sub><b>Khaled Badr</b></sub>
+      </a>
+    </td>
+  </tr> 
+  <!-- New Row -->
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nourhan-ahmedd">
+        <img src="https://github.com/nourhan-ahmedd.png" width="100px" alt="@nourhan-ahmedd">
+        <br>
+        <sub><b>Nourhan Ahmed </b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hanaheshamm">
+        <img src="https://github.com/hanaheshamm.png" width="100px" alt="@hanaheshamm">
+        <br>
+        <sub><b>Hana Hesham</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
