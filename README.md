@@ -29,7 +29,7 @@ Description: Given standard images (grayscale and color), the following tasks ar
 10. Creating hybrid images.
     
 ![Filtering and noise](https://drive.google.com/uc?export=download&id=1vlK6lHjAeqAHO6eGvNAK_FiJUtPx0ZLQ)
-![Image Alt Text](image_path_or_url)
+![Normalization and his equalization](https://drive.google.com/uc?export=download&id=1PtLo5rxZh4s2ZHOBa3bSKtmn3IpnLklr)
 ![Image Alt Text](image_path_or_url)
 ![Image Alt Text](image_path_or_url)
 ![Image Alt Text](image_path_or_url)
