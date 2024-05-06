@@ -28,7 +28,7 @@ Description: Given standard images (grayscale and color), the following tasks ar
 9. Applying frequency domain filters (high pass and low pass).
 10. Creating hybrid images.
     
-![Image Alt Text](https://drive.google.com/file/d/1vlK6lHjAeqAHO6eGvNAK_FiJUtPx0ZLQ/view?usp=share_link)
+![Image Alt Text](![Image Alt Text](https://drive.google.com/uc?export=download&id=1vlK6lHjAeqAHO6eGvNAK_FiJUtPx0ZLQ)
 ![Image Alt Text](image_path_or_url)
 ![Image Alt Text](image_path_or_url)
 ![Image Alt Text](image_path_or_url)
