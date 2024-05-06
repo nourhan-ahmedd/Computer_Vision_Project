@@ -52,7 +52,7 @@ Description: For given images (grayscale and color), the following tasks are imp
 Description: For given images (grayscale and color), the following is implemented:
 - Extracting unique features using Harris operator and λ-. Report computation times.
 
-![Harris Operator](https://drive.google.com/uc?export=download&id=1JtIdu8Od59UOxQS4jOSwHazRKeiObr9N)
+![Harris Operator](https://drive.google.com/uc?export=download&id=1XpAM9SLqlw8XfSAwrNPUEa02OH4vQsFA)
 
 ## 4. SIFT
 
