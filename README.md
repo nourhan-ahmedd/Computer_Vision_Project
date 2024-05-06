@@ -15,7 +15,24 @@
 
 ## 1. Filtering and Edge Detection
 
-Description: This section contains projects related to image filtering techniques and edge detection algorithms.
+Description: Given standard images (grayscale and color), the following tasks are implemented:
+
+1. Adding additive noise to the image (e.g., Uniform, Gaussian, and Salt & Pepper noise).
+2. Filtering the noisy image using low-pass filters (e.g., Average, Gaussian, and Median filters).
+3. Detecting edges using various edge detection masks (e.g., Sobel, Roberts, Prewitt, and Canny).
+4. Drawing histogram and distribution curve.
+5. Equalizing the image.
+6. Normalizing the image.
+7. Performing local and global thresholding.
+8. Transforming color image to grayscale and plot histograms of R, G, and B channels with distribution functions.
+9. Applying frequency domain filters (high pass and low pass).
+10. Creating hybrid images.
+    
+![Image Alt Text](Image 06-05-2024 at 6.30 AM.jpeg)
+![Image Alt Text](image_path_or_url)
+![Image Alt Text](image_path_or_url)
+![Image Alt Text](image_path_or_url)
+![Image Alt Text](image_path_or_url)
 
 ## 2. Edge and Boundary Detection
 
