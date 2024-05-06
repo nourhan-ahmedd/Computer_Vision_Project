@@ -29,10 +29,14 @@ Description: Given standard images (grayscale and color), the following tasks ar
 10. Creating hybrid images.
     
 ![Filtering and noise](https://drive.google.com/uc?export=download&id=1vlK6lHjAeqAHO6eGvNAK_FiJUtPx0ZLQ)
-![Normalization and his equalization](https://drive.google.com/uc?export=download&id=1PtLo5rxZh4s2ZHOBa3bSKtmn3IpnLklr)
-![Image Alt Text](image_path_or_url)
-![Image Alt Text](image_path_or_url)
-![Image Alt Text](image_path_or_url)
+
+![Normalization and hist equalization](https://drive.google.com/uc?export=download&id=1PtLo5rxZh4s2ZHOBa3bSKtmn3IpnLklr)
+
+![Edge detection](https://drive.google.com/uc?export=download&id=1zfA2J4TWo5ArPjbwjM0u2MNomxRtDeoo)
+
+![Global and local thresholding](https://drive.google.com/uc?export=download&id=1nN0qXlbr4n0Z9uGzL7fOpE3WNC6pmRKf)
+
+![Hybrid image](https://drive.google.com/uc?export=download&id=1BxjBJnGqtTPrxVas948IE5104v-0f5XT)
 
 ## 2. Edge and Boundary Detection
 
