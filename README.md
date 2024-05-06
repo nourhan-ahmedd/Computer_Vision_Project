@@ -66,7 +66,7 @@ Description: For given images (grayscale and color), the following is implemente
 Description: For given images (grayscale and color), the following is implemented:
 - Matching image set features using Sum of Squared Differences (SSD) and Normalized Cross Correlations. Report matching computation time.
 
-![Feature Matching](https://drive.google.com/uc?export=download&id=1JaputP6mSr6JBsIDBxKsI2z4oRZhS_VI)
+![Feature Matching](https://drive.google.com/uc?export=download&id=1Wj9HT4IU3unuQZvP5RJZxNPGlLl4A-Jv)
 
 ## 6. Segmentation
 
@@ -75,7 +75,7 @@ Description: For given images (grayscale), the following is implemented:
 
 ![K-Means](https://drive.google.com/uc?export=download&id=1WA95ZsvZBAnacQ0O470d4bB3x9-DPoCU)
 ![Mean Shift](https://drive.google.com/uc?export=download&id=16FD8WCUAi_GeQ5Li4hy38gpczg4qMZBd)
-![Agglomerative](https://drive.google.com/uc?export=download&id=16FD8WCUAi_GeQ5Li4hy38gpczg4qMZBd)
+![Agglomerative](https://drive.google.com/uc?export=download&id=1FHboIGugXG8jSwHpKzm1nxuMsnzOiJaI)
 
 ## 7. Thresholding
 
