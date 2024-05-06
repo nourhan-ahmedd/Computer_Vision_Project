@@ -1,5 +1,4 @@
-# Computer_Vision_Project
-# Computer Vision Projects
+# Computer Vision Project
 
 ## Table of Contents
 
@@ -10,8 +9,6 @@
 5. [Feature Matching](#feature-matching)
 6. [Segmentation](#segmentation)
 7. [Thresholding](#thresholding)
-8. [Face Detection](#face-detection)
-9. [Face Recognition](#face-recognition)
 
 ## 1. Filtering and Edge Detection
 
@@ -46,22 +43,18 @@ Description: Projects in this section focus on edge and boundary detection metho
 
 Description: Explore projects that implement the Harris corner detection algorithm for feature extraction in images.
 
-## 4. SIFT and Feature Matching
+## 4. SIFT
 
 Description: Projects involving Scale-Invariant Feature Transform (SIFT) for feature extraction and matching in images.
 
-## 5. Segmentation
+## 5. Feature Matching
+
+Description: Projects involving Scale-Invariant Feature Transform (SIFT) for feature extraction and matching in images.
+
+## 6. Segmentation
 
 Description: This section contains projects related to image segmentation techniques for dividing an image into meaningful regions.
 
-## 6. Thresholding
+## 7. Thresholding
 
 Description: Explore projects that involve thresholding techniques for image segmentation and processing.
-
-## 7. Face Detection
-
-Description: Projects focusing on algorithms and techniques for detecting human faces in images.
-
-## 8. Face Recognition
-
-Description: This section contains projects related to face recognition algorithms and techniques for identifying individuals in images.
