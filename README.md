@@ -14,16 +14,16 @@
 
 Description: Given standard images (grayscale and color), the following tasks are implemented:
 
-1. Adding additive noise to the image (e.g., Uniform, Gaussian, and Salt & Pepper noise).
-2. Filtering the noisy image using low-pass filters (e.g., Average, Gaussian, and Median filters).
-3. Detecting edges using various edge detection masks (e.g., Sobel, Roberts, Prewitt, and Canny).
-4. Drawing histogram and distribution curve.
-5. Equalizing the image.
-6. Normalizing the image.
-7. Performing local and global thresholding.
-8. Transforming color image to grayscale and plot histograms of R, G, and B channels with distribution functions.
-9. Applying frequency domain filters (high pass and low pass).
-10. Creating hybrid images.
+- Adding additive noise to the image (e.g., Uniform, Gaussian, and Salt & Pepper noise).
+- Filtering the noisy image using low-pass filters (e.g., Average, Gaussian, and Median filters).
+- Detecting edges using various edge detection masks (e.g., Sobel, Roberts, Prewitt, and Canny).
+- Drawing histogram and distribution curve.
+- Equalizing the image.
+- Normalizing the image.
+- Performing local and global thresholding.
+- Transforming color image to grayscale and plot histograms of R, G, and B channels with distribution functions.
+- Applying frequency domain filters (high pass and low pass).
+- Creating hybrid images.
     
 ![Filtering and noise](https://drive.google.com/uc?export=download&id=1vlK6lHjAeqAHO6eGvNAK_FiJUtPx0ZLQ)
 
@@ -39,9 +39,9 @@ Description: Given standard images (grayscale and color), the following tasks ar
 
 Description: For given images (grayscale and color), the following tasks are implemented:
 
-1. Detecting edges using Canny edge detector.
-2. Detecting lines, circles, ellipses (if any) and superimposing the detected shapes on the images.
-3. Initializing contour for a given object and evolve the Active Contour Model (SNAKE) using the greedy algorithm. Represent the output as chain code and compute perimeter and area inside these contours.
+- Detecting edges using Canny edge detector.
+- Detecting lines, circles, ellipses (if any) and superimposing the detected shapes on the images.
+- Initializing contour for a given object and evolve the Active Contour Model (SNAKE) using the greedy algorithm. Represent the output as chain code and compute perimeter and area inside these contours.
 
 ![Active contour](https://drive.google.com/uc?export=download&id=1FFqSmoX-oY-DhTHJ70VAdHT6mla6ZtKa)
 ![Shapes Detection](https://drive.google.com/uc?export=download&id=1JtIdu8Od59UOxQS4jOSwHazRKeiObr9N)
@@ -49,23 +49,46 @@ Description: For given images (grayscale and color), the following tasks are imp
 
 ## 3. Harris Operator
 
-Description: Explore projects that implement the Harris corner detection algorithm for feature extraction in images.
+Description: For given images (grayscale and color), the following is implemented:
+- Extracting unique features using Harris operator and λ-. Report computation times.
+
+![Harris Operator](https://drive.google.com/uc?export=download&id=1JtIdu8Od59UOxQS4jOSwHazRKeiObr9N)
 
 ## 4. SIFT
 
-Description: Projects involving Scale-Invariant Feature Transform (SIFT) for feature extraction and matching in images.
+Description: For given images (grayscale and color), the following is implemented:
+- Generating feature descriptors using Scale Invariant Features (SIFT). Report computation time.
+
+![SIFT](https://drive.google.com/uc?export=download&id=1JaputP6mSr6JBsIDBxKsI2z4oRZhS_VI)
 
 ## 5. Feature Matching
 
-Description: Projects involving Scale-Invariant Feature Transform (SIFT) for feature extraction and matching in images.
+Description: For given images (grayscale and color), the following is implemented:
+- Matching image set features using Sum of Squared Differences (SSD) and Normalized Cross Correlations. Report matching computation time.
+
+![Feature Matching](https://drive.google.com/uc?export=download&id=1JaputP6mSr6JBsIDBxKsI2z4oRZhS_VI)
 
 ## 6. Segmentation
 
-Description: This section contains projects related to image segmentation techniques for dividing an image into meaningful regions.
+Description: For given images (grayscale), the following is implemented:
+- Performing unsupervised segmentation on supplied Gray/Color images using k-means, region growing, agglomerative, and mean shift methods.
+
+![K-Means](https://drive.google.com/uc?export=download&id=1WA95ZsvZBAnacQ0O470d4bB3x9-DPoCU)
+![Mean Shift](https://drive.google.com/uc?export=download&id=16FD8WCUAi_GeQ5Li4hy38gpczg4qMZBd)
+![Agglomerative](https://drive.google.com/uc?export=download&id=16FD8WCUAi_GeQ5Li4hy38gpczg4qMZBd)
 
 ## 7. Thresholding
 
-Description: Explore projects that involve thresholding techniques for image segmentation and processing.
+Description: For given images (grayscale), the following is implemented:
+- Threshold supplied grayscale images using optimal thresholding, Otsu, and Multi-level thresholding (more than 2 modes) with 2 modes for each of them (local and global thresholding).
+
+![Optimal Thresholding](https://drive.google.com/uc?export=download&id=1CXm_2P4ZP3Miz0nx2EWpbIMDlohrwon_)
+![Otsu Thresholding](https://drive.google.com/uc?export=download&id=1h09a9cauIEDiswbGAUzDN8lvdx0XeUhB)
+![Multi-level Thresholding](https://drive.google.com/uc?export=download&id=1F8QxnDP6JQytwmc2SuYedQRqQ2Q9sjrL)
+
+## Contributors
+
+We would like to thank the following individuals for their contributions to this project:
 
 <table>
   <tr>
